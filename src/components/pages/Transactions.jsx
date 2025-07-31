@@ -33,9 +33,9 @@ const Transactions = () => {
       setLoading(true);
       setError(null);
       
-      const [transactionData, budgetData] = await Promise.all([
+const [transactionData, budgetData] = await Promise.all([
         transactionService.getAll(),
-        budgetService.getCurrent()
+        budgetService.getCurrentBudget()
       ]);
       
       setTransactions(transactionData);
