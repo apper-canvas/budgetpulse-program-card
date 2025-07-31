@@ -1,0 +1,98 @@
+[
+  {
+    "Id": 1,
+    "amount": 65.50,
+    "categoryId": 1,
+    "description": "Weekly grocery shopping",
+    "date": "2024-11-15T10:30:00Z",
+    "type": "expense"
+  },
+  {
+    "Id": 2,
+    "amount": 25.75,
+    "categoryId": 5,
+    "description": "Lunch at downtown cafe",
+    "date": "2024-11-14T12:45:00Z",
+    "type": "expense"
+  },
+  {
+    "Id": 3,
+    "amount": 85.00,
+    "categoryId": 3,
+    "description": "Electricity bill payment",
+    "date": "2024-11-13T15:20:00Z",
+    "type": "expense"
+  },
+  {
+    "Id": 4,
+    "amount": 45.20,
+    "categoryId": 4,
+    "description": "Gas station fill-up",
+    "date": "2024-11-12T08:15:00Z",
+    "type": "expense"
+  },
+  {
+    "Id": 5,
+    "amount": 18.99,
+    "categoryId": 2,
+    "description": "Netflix subscription",
+    "date": "2024-11-11T09:00:00Z",
+    "type": "expense"
+  },
+  {
+    "Id": 6,
+    "amount": 125.00,
+    "categoryId": 6,
+    "description": "Doctor visit copay",
+    "date": "2024-11-10T14:30:00Z",
+    "type": "expense"
+  },
+  {
+    "Id": 7,
+    "amount": 89.99,
+    "categoryId": 7,
+    "description": "New workout clothes",
+    "date": "2024-11-09T16:45:00Z",
+    "type": "expense"
+  },
+  {
+    "Id": 8,
+    "amount": 32.50,
+    "categoryId": 1,
+    "description": "Fresh produce market",
+    "date": "2024-11-08T11:20:00Z",
+    "type": "expense"
+  },
+  {
+    "Id": 9,
+    "amount": 55.80,
+    "categoryId": 5,
+    "description": "Date night dinner",
+    "date": "2024-11-07T19:30:00Z",
+    "type": "expense"
+  },
+  {
+    "Id": 10,
+    "amount": 15.99,
+    "categoryId": 2,
+    "description": "Movie theater tickets",
+    "date": "2024-11-06T20:15:00Z",
+    "type": "expense"
+  },
+  {
+    "Id": 11,
+    "amount": 2500.00,
+    "categoryId": 1,
+    "description": "Monthly salary",
+    "date": "2024-11-01T00:00:00Z",
+    "type": "income"
+  },
+  {
+    "Id": 12,
+    "amount": 200.00,
+    "categoryId": 1,
+    "description": "Freelance project payment",
+    "date": "2024-11-05T14:00:00Z",
+    "type": "income"
+  }
+]
